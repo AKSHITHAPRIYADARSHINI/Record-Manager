@@ -3,7 +3,7 @@
 The **Record Manager** is responsible for organizing and managing records within a table. It provides essential functionality for creating, opening, and closing tables, ensuring smooth data handling. Additionally, it facilitates managing individual records, allowing for efficient retrieval, modification, and deletion. The Record Manager also includes features for scanning records based on specific conditions, enabling targeted data access. Furthermore, it supports schema management by allowing updates to table structures and handling attribute values effectively. Overall, the Record Manager plays a crucial role in maintaining and manipulating structured data efficiently in C-based applications.
 
 
-## FILES INCLUDED IN THE ASSIGNMENT
+## FILES INCLUDED 
 - README.md
 - buffer_mgr_stat.c
 - buffer_mgr_stat.h
